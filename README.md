@@ -8,7 +8,7 @@ The course focused on:
 
 **Notes**
 - Most of the queries are executed using the Parch & Posey database (toy datasets).
-- The course comprised eight lessons and was completed in 2023. The database schema and the EDR are shown below:
+- The course comprised eight lessons and was completed in 2023. The database schema and the ERD are shown below:
 ![](parch_erd.pgerd.png)
 
 ## Query Contents
